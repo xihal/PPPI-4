@@ -19,9 +19,16 @@ public class MainMenu : MonoBehaviour
 
     void OnStartButtonClicked()
     {
-        // Приховуємо меню і запускаємо гру
-        gameObject.SetActive(false);
-        GameManager.Instance.StartGame(); // Фіксовані параметри
+        if (GameManager.Instance.IsGameOver)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+        else
+        {
+            // Приховуємо меню і запускаємо гру
+            gameObject.SetActive(false);
+            GameManager.Instance.StartGame(); // Фіксовані параметри
+        }
     }
 
     void OnExitButtonClicked()

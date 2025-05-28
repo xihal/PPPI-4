@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     private bool isGameActive = false;
 
     public bool IsGameActive => isGameActive;
+    public bool IsGameOver => gameOver;
 
     void Awake()
     {

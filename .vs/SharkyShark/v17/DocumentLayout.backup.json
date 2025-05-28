@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\astor\\SharkyShark\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|C:\\Users\\astor\\SharkyShark\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|c:\\users\\astor\\sharkyshark\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|c:\\users\\astor\\sharkyshark\\assets\\scripts\\obstaclebuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclebuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|c:\\users\\astor\\sharkyshark\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|c:\\users\\astor\\sharkyshark\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|c:\\users\\astor\\sharkyshark\\assets\\scripts\\missilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\missilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|C:\\Users\\astor\\SharkyShark\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|C:\\Users\\astor\\SharkyShark\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|C:\\Users\\astor\\SharkyShark\\assets\\scripts\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|C:\\Users\\astor\\SharkyShark\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|c:\\users\\astor\\sharkyshark\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|C:\\Users\\astor\\SharkyShark\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DBB1A2-9B9A-368A-83AC-6ACDC23F3E4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,54 +37,16 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Controls.cs",
-              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\Controls.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls.cs",
-              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\Controls.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Controls.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:05:03.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:45:35.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MissileController.cs",
-              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\MissileController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MissileController.cs",
-              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\MissileController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MissileController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:58:34.396Z",
+              "WhenOpened": "2025-05-28T21:23:33.822Z",
               "EditorCaption": ""
             },
             {
@@ -99,22 +57,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
               "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T01:07:12.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T01:14:36.116Z",
+              "WhenOpened": "2025-05-28T21:23:30.09Z",
               "EditorCaption": ""
             },
             {
@@ -125,22 +70,61 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
               "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\MainMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T01:23:56.545Z",
+              "WhenOpened": "2025-05-28T21:23:03.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CameraFollow.cs",
-              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\CameraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
-              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\CameraFollow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB2AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ObstacleBuild.cs",
+              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\ObstacleBuild.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleBuild.cs",
+              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\ObstacleBuild.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleBuild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T01:38:28.086Z"
+              "WhenOpened": "2025-05-28T21:22:03.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwG0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:22:03.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MissileController.cs",
+              "DocumentMoniker": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\MissileController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MissileController.cs",
+              "ToolTip": "C:\\Users\\astor\\SharkyShark\\Assets\\Scripts\\MissileController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MissileController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:21:57.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
