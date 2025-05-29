@@ -9,12 +9,27 @@ public class MainMenu : MonoBehaviour
     public static MainMenu Instance;
     public Button startButton;
     public Button exitButton;
+    public Slider fuelSlider;
+    public Slider playerFuelIndicator;
+
+
 
     void Start()
     {
         startButton.onClick.AddListener(OnStartButtonClicked);
         exitButton.onClick.AddListener(OnExitButtonClicked);
         Instance = this;
+    }
+
+    public void UpdateFuel(float currentFuel, float maxFuel)
+    {
+        fuelSlider.maxValue = maxFuel;
+        fuelSlider.value = currentFuel;
+    }
+
+    public void UpdateTurboFuel(float currentFuel)
+    {
+        playerFuelIndicator.value = currentFuel;
     }
 
     void OnStartButtonClicked()

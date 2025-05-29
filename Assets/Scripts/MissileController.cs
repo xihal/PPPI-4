@@ -41,6 +41,7 @@ public class MissileController : MonoBehaviour
             gameObject.SetActive(false);
             MainMenu.Instance.ViewMenu();
         }
+        MainMenu.Instance.UpdateFuel(currentFuel, fuelTime);
     }
 
     // Активація ракети
@@ -60,4 +61,5 @@ public class MissileController : MonoBehaviour
             MainMenu.Instance.ViewMenu();
         }
     }
+   
 }

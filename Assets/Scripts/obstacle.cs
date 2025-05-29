@@ -53,7 +53,7 @@ public class obstacle : MonoBehaviour
 
             if (canSpawn)
             {
-                Instantiate(target, candidatePos, Quaternion.Euler(-90f, 180f, 0f));
+                Instantiate(target, candidatePos, Quaternion.Euler(0f, 180f, 0f));
                 spawnedPos.Add(candidatePos);
                 spawned++;
             }

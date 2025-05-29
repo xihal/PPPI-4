@@ -26,6 +26,7 @@ public class PlayerController : MonoBehaviour
     {
         GetInputs();
         PlayerMove(true);
+        MainMenu.Instance.UpdateTurboFuel(turboFuel);
     }
 
     public void PlayerMove(bool move)
@@ -110,4 +111,6 @@ public class PlayerController : MonoBehaviour
             turbo = false;
         }
     }
+ 
 }
+
